@@ -1,0 +1,9 @@
+{
+	"name": "Bhanucr07",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "946e1633-93aa-403e-8a72-5f5a74c02109",
+		"tenantId": "78f67dd2-4ef6-45d6-81dc-a9b7894f394f"
+	}
+}
